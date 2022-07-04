@@ -1,5 +1,4 @@
 const axios = require('axios');
-const fs = require('fs/promises')
 
 axios
   .get('http://localhost:8000/books1')
